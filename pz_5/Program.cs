@@ -18,4 +18,4 @@ namespace pz_5
 
 // Задание №2
 
-
+using System;
