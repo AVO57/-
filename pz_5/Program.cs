@@ -28,12 +28,20 @@ namespace pz_5
             // Задание №3
             Console.WriteLine();
             Console.WriteLine("Задание №3");
+            var j1 = '#';
+            for (int i4 = 0; i4 != 6; i4++)
+            {
+                for (int i0 = 0; i0 != 5; i0++)
+                {
+                    Console.Write(j1);
+                }
+                Console.WriteLine();
+            }
 
-           
 
 
-             // Задание №4
-             Console.WriteLine();
+            // Задание №4
+            Console.WriteLine();
              Console.WriteLine("Задание №4");
                     for (int p = 1; p != 100; p++)
                     {
