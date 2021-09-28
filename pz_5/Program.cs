@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Григорян Э. 2ПК2
 namespace pz_5
 {
     class Program
