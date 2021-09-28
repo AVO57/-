@@ -51,7 +51,7 @@ namespace pz_5
              for (int i = 4; i < j3 + 24; i++)
               {
                Console.WriteLine(i + " " + j3);
-               j3--;
+                j3--;
               }
 
 
