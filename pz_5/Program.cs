@@ -21,7 +21,7 @@ namespace pz_5
             char simvol = 'G';
             for (var i = 0; i < 5; i++)
             {
-                Console.WriteLine(simvol);
+                Console.Write(simvol);
                 simvol++;
             }
 
