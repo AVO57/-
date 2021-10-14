@@ -6,7 +6,7 @@ namespace pz_8
     {
         static void Main(string[] args)
         {
-          
+          1
         }
     }
 }
