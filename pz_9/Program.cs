@@ -22,9 +22,6 @@ namespace pz_9
                 }
                 Console.WriteLine();
 
-
-
-
             }
             Console.WriteLine("Элементы главной диагонали:");
             for (i = 0; i <= 4; i++) // Строчки
