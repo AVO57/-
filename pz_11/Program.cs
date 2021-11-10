@@ -7,9 +7,9 @@ namespace pz_11
         static void Main(string[] args)
         {
             Console.WriteLine("Введите текст:");
-            string InputString;
-            InputString = Console.ReadLine();
-            Console.WriteLine(String.Join(" ", InputString.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)));
+            string InputString; // Обозначение переменной
+            InputString = Console.ReadLine(); // Вводим текст, который хотим сделать нормированным
+            Console.WriteLine(String.Join(" ", InputString.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries))); // Удаление лишних пробелов
         }
     }
 }
