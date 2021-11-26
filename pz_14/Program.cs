@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Sobes
+namespace pz_14
 {
     class Program
     {
