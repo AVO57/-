@@ -6,7 +6,7 @@ namespace pz_12
     {
         static void Main(string[] args)
         {
-            Console.Write("Ввдите текста: \t");
+            Console.Write("Введите текста: \t");
 
             string str = Console.ReadLine();
             string strrev = "";
