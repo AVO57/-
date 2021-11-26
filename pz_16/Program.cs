@@ -16,7 +16,7 @@ namespace pz_16
         }
         static void Main(string[] args)
         {
-            int[] a = { 1, 5, 2, 3, 4 };
+            int[] a = { 1, 5, 2, 3, 4 }; // Я так думаю, что в условии ошибка, так как у нас "sqrt", а в конце требуют найти степени
             double[] b = new double[5];
             double[] c = new double[5];
             double[] d = new double[5];
